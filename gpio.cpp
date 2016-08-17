@@ -86,7 +86,7 @@ namespace gpio
 
 	void read()
 	{
-
+		//TODO: Implement read
 	}
 
 	void _checkPinNum(int pinNum)
